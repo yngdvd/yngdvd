@@ -21,9 +21,8 @@ Atualmente retomando **Ruby** e desenvolvendo projetos próprios, enquanto mante
 
 ---
 
-<table width="100%" align = "center">
+<table width="100%" align="center">
   <tr>
-    <!-- Linha 1: Títulos travados no topo -->
     <td width="35%" valign="top">
       <h3>Atualmente</h3>
     </td>
@@ -32,7 +31,6 @@ Atualmente retomando **Ruby** e desenvolvendo projetos próprios, enquanto mante
     </td>
   </tr>
   <tr>
-    <!-- Linha 2 em diante: Barra de progresso centralizada no meio e separada do título -->
     <td valign="middle" rowspan="3">
 <pre>
 Ruby             █████░░░░░
@@ -42,8 +40,11 @@ Fabricação       ██████░░░░
 </pre>
     </td>
     <td valign="middle">
-      <strong>Programação</strong><br>
-      Ruby · Python · Git · Linux
+      <strong>Programação |</strong> 
+      <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" align="absmiddle" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" align="absmiddle" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" align="absmiddle" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" align="absmiddle" />
     </td>
     <td width="90" align="center" valign="middle">
       <img src="https://i.pinimg.com/originals/a4/9a/49/a49a49f1c8da2600c0cc25bf7f856a65.gif" width="40" />

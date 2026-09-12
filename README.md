@@ -2,14 +2,18 @@
 <tr>
 <td valign="middle">
 
-## | ᴅ ᴀ ᴠ ɪ ᴅ | ⌔ - ʀᴜʙʏ ᴅᴇᴠ. |
+<h2 align = "center" > | ᴅ ᴀ ᴠ ɪ ᴅ | ⌔ - ʀᴜʙʏ ᴅᴇᴠ. |<br></br></h2>
 
-**Fabricação Mecânica · Programação · Matemática**
+<h4 align = "center" >
+Fabricação Mecânica · Programação · Matemática
+</h4>
+<h5 align = "center" >
+Estudante de Fabricação Mecânica na FATEC, com interesse em programação, matemática e lógica formal.
 
-Estudante de **Fabricação Mecânica na FATEC**, com interesse em **programação, matemática e lógica formal**.
-
-Atualmente retomando **Ruby** e desenvolvendo projetos próprios, enquanto mantenho uma formação independente em **Matemática**.
+Atualmente retomando Ruby e desenvolvendo projetos próprios, enquanto mantenho uma formação independente em Matemática.
 <br></br>
+</h5>
+
 </td>
 <td width="100" align="center" valign="middle">
 
@@ -39,6 +43,9 @@ Lógica           ██████░░░░
 Fabricação       ██████░░░░
 </pre>
     </td>
+    <td width="90" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/a4/9a/49/a49a49f1c8da2600c0cc25bf7f856a65.gif" width="40" />
+    </td>
     <td valign="middle">
       <strong>Programação |</strong> 
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" align="absmiddle" />
@@ -46,26 +53,23 @@ Fabricação       ██████░░░░
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" align="absmiddle" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" align="absmiddle" />
     </td>
-    <td width="90" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/a4/9a/49/a49a49f1c8da2600c0cc25bf7f856a65.gif" width="40" />
-    </td>
   </tr>
   <tr>
+    <td width="90" align="center" valign="middle">
+      <img src="https://i.pinimg.com/originals/f9/5a/98/f95a98ac2ee5c88008aad12957872011.gif" width="70" />
+    </td>
     <td valign="middle">
       <strong>Matemática</strong><br>
       Lógica · Aritmética · Álgebra · Geometria · Cálculo
     </td>
-    <td width="90" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/f9/5a/98/f95a98ac2ee5c88008aad12957872011.gif" width="70" />
-    </td>
   </tr>
   <tr>
+  <td width="90" align="center" valign="middle">
+     <img src="https://i.pinimg.com/originals/14/c0/1d/14c01d070ef4669ac8d9aca1f4aa9de1.gif" width="90"/>
+    </td>
     <td valign="middle">
       <strong>Técnica</strong><br>
       Fabricação mecânica · Fundamentos técnicos · Aplicação prática
-    </td>
-    <td width="90" align="center" valign="middle">
-      <img src="https://i.pinimg.com/originals/14/c0/1d/14c01d070ef4669ac8d9aca1f4aa9de1.gif" width="90"/>
     </td>
   </tr>
 </table>

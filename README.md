@@ -2,7 +2,7 @@
 <tr>
 <td valign="middle">
 
-## - yngdvd;
+## | ᴅ ᴀ ᴠ ɪ ᴅ | ⌔ - ʀᴜʙʏ ᴅᴇᴠ. |
 
 **Fabricação Mecânica · Programação · Matemática**
 

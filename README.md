@@ -2,8 +2,6 @@
 <tr>
 <td valign="middle">
 
-# David
-
 **Fabricação Mecânica · Programação · Matemática**
 
 Estudante de **Fabricação Mecânica na FATEC**, com interesse em **programação, matemática e lógica formal**.
